@@ -4,7 +4,7 @@
         "comments": "off",
         "strings": "off"
     },
-    "editor.suggestOnTriggerCharacters": false,
+    "editor.suggestOnTriggerCharacters": true,
     "editor.inlineSuggest.enabled": false,
     "java.compile.nullAnalysis.mode": "automatic"
 }
