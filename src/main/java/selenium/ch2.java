@@ -18,6 +18,6 @@ public class ch2 {
     String url = driver.getCurrentUrl();
     System.out.println(url);
     Assert.assertEquals(url, "https://automationexercise.com/");
-    driver.quit();
+    driver.close();
     }
 }
