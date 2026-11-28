@@ -6,5 +6,6 @@
     },
     "editor.suggestOnTriggerCharacters": true,
     "editor.inlineSuggest.enabled": false,
-    "java.compile.nullAnalysis.mode": "automatic"
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
